@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeyad-Hegazy
+- 👋 Hi, I’m Zeyad Hegazy
 - 👀 I’m interested in Writing code
 - 🌱 I’m currently learning to be a full-stack developer
 - 💞️ I’m looking to collaborate on real projects
